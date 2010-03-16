@@ -1,4 +1,13 @@
 #!/usr/bin/env python
+#
+# Simple iCalendar aggregator
+#
+# Copyright (C) 2010 Magnus Hagander
+# Copyright (C) 2010 PostgreSQL Europe
+#
+# Released under the PostgreSQL Licence.
+#
+
 
 import sys
 import urllib2
