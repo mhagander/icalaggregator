@@ -1,0 +1,18 @@
+div.schedwrap {
+   border: 1px solid black;
+   position: relative;
+   font-size: 0.8em;
+}
+div.sessblock {
+   border: 1px solid gray;
+   overflow:hidden;
+   position: absolute;
+   background-color: #ccffff;
+}
+div.roomheader {
+   font-weight: bold;
+   font-size: 1.2em;
+   top: 0px;
+   text-align: center;
+   background-color: #e1c7e1;
+}
